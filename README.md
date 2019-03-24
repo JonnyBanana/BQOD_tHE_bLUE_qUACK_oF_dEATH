@@ -28,6 +28,8 @@ https://github.com/peewpw/Invoke-BSOD
 
 -Rubber Ducky Must be Named "_"
 
+-BSOD.exe
+
 </BR>
 
 <h3>Os Compatibility</h3>
