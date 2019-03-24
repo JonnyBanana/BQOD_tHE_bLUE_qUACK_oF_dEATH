@@ -24,15 +24,15 @@ https://github.com/peewpw/Invoke-BSOD
 
 </br>
 
-Twin Duck Firmware
+-Twin Duck Firmware
 
-Rubbe Ducky Must be Named "_"
+-Rubbe Ducky Must be Named "_"
 
-<h3>Os Compatibility<h3>
+<h3>Os Compatibility</h3>
   
 </BR>
 
-Windows 7 or Earlier
+-Windows 7 or Earlier
 
 </BR>
 
@@ -48,7 +48,7 @@ Windows 7 or Earlier
 
 </br>
 
-None
+-None
 
 </BR>
 
@@ -56,7 +56,7 @@ None
 
 </BR>
 
-Windows 7 or Earlier
+-Windows 7 or Earlier
 
 </BR>
 
