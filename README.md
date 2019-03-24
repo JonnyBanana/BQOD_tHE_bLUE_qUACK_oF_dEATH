@@ -9,14 +9,16 @@ A script for Rubber Ducky which uses the Invoke-bsod powershell technique to tri
 https://github.com/peewpw/Invoke-BSOD
 
 
-<h2>v1</h2>
-
 </BR>
 
 ![Alt text](https://github.com/JonnyBanana/BQOD-tHE_bLUE_qUACK_oF-dEATH-/blob/master/img/DUCKY-KILLERS.jpg)
 
 
 </BR>
+
+<h2>v1</h2>
+
+</br>
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/BQOD-tHE_bLUE_qUACK_oF-dEATH-/master/img/BQOD.JPG)
 
