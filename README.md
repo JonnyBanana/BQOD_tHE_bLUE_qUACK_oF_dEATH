@@ -3,17 +3,18 @@ A script for Rubber Ducky which uses the Invoke-bsod powershell technique to tri
 
 </BR>
 
-<h2>v2</h2>
+</BR>
+
+
+https://github.com/peewpw/Invoke-BSOD
+
+
+<h2>v1</h2>
 
 </BR>
 
 ![Alt text](https://github.com/JonnyBanana/BQOD-tHE_bLUE_qUACK_oF-dEATH-/blob/master/img/DUCKY-KILLERS.jpg)
 
-
-</BR>
-
-
-https://github.com/peewpw/Invoke-BSOD
 
 </BR>
 
