@@ -52,8 +52,6 @@ https://github.com/peewpw/Invoke-BSOD
 
 -None
 
-</BR>
-
 <h3>Os Compatibility</h3>
 
 </BR>
