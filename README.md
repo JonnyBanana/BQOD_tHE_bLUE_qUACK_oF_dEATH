@@ -26,8 +26,6 @@ https://github.com/peewpw/Invoke-BSOD
 
 -Twin Duck Firmware
 
-</BR>
-
 -Rubbe Ducky Must be Named "_"
 
 </BR>
