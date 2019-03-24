@@ -9,7 +9,7 @@ A script for Rubber Ducky which uses the Invoke-bsod powershell technique to tri
 </BR>
 
 
-https://github.com/JonnyBanana/Invoke-BSOD
+https://github.com/peewpw/Invoke-BSOD
 
 </BR>
 
