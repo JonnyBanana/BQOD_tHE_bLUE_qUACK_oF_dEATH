@@ -11,7 +11,9 @@ https://github.com/peewpw/Invoke-BSOD
 
 </BR>
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH/master/img/duckycode.JPG)
+
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH/master/img/DUCKY-KILLERS.jpg)
 
 
 </BR>
@@ -40,9 +42,7 @@ https://github.com/peewpw/Invoke-BSOD
 
 </BR>
 
-![Alt text](
-
-)
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH/master/img/duckycode.JPG)
 
 </BR>
 
