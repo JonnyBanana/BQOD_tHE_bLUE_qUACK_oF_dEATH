@@ -36,7 +36,7 @@ https://github.com/peewpw/Invoke-BSOD
   
 </BR>
 
--Windows 7 or Earlier
+-Windows Vista or Earlier
 
 </BR>
 
@@ -60,7 +60,7 @@ https://github.com/peewpw/Invoke-BSOD
 
 </BR>
 
--Windows 7 or Earlier
+-Windows Vista or Earlier
 
 </BR>
 
