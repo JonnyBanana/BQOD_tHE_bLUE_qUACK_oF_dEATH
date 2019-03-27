@@ -67,7 +67,7 @@ https://github.com/peewpw/Invoke-BSOD
 </BR>
 
 <a href="https://www.youtube.com/watch?v=hbukCE0nQqo
-" target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/safari-ie-reaper.github.io/master/img/css-webkit-filter-yt.JPG" 
+" target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH/master/img/BQOD_BLUE_QUACK_OF_DEATH.jpg" 
 alt="BQOD" width="600" height="450" border="100" /></a> 
 
 
